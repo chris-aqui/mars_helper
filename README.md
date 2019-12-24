@@ -4,17 +4,17 @@ Python app that uses speech recognition and text-to-speech This app initially us
 
 ## Dependencies
 
-pip install speechrecognition
-pip install pyttsx3
-pip install pyaudio
-pip install playsound
+- pip install speechrecognition
+- pip install pyttsx3
+- pip install pyaudio
+- pip install playsound
 
 ## Voice Commands
 
 You can add other commands, but these are the ones that exist
 
-What is your name?
-What time is it
-Search
-Find Location
-Exit
+- What is your name?
+- What time is it
+- Search
+- Find Location
+- Exit
